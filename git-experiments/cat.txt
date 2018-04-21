@@ -1,1 +1,4 @@
 Bob and Alice like cats
+They like cats so much that Eve bought them a new IoT cat.
+Don't be alarmed, Bob and Alice. I'm sure Eve always has
+the best of intentions for you.
